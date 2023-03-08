@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+  }
+  main {
+    background-color: #DCC6D7;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card {
+    background-color: white;
+    width: 400px;
+    padding: 32px;
+    border-radius: 20px;
+    text-align: center;
+  }
+  img {
+    width: 140px; 
+    height: 140px; 
+    border-radius: 100%;
+  }
+  h1 {
+    color: #2a9d8f;
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
+  }
+  p {
+    font-size: 1.25rem;
+    font-family: 'Lato', sans-serif;
+    margin-top: 8px;
+  }
+  a {
+    margin: 8px;
+    text-decoration: none;
+  }
+  
